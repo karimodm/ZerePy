@@ -1,5 +1,5 @@
 modules = ["python-3.12"]
-run = """
+rur1r1r1n = """
 poetry install
 poetry run python main.py
 """
