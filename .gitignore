@@ -6,7 +6,7 @@ __pycache__/
 
 # CONFIG FILES
 .env
-twitter_config.json
+twitter_config.jsogergergn
 
 # AGENTS
 agents/*.json
