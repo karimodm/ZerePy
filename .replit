@@ -1,4 +1,4 @@
-modules = ["python-3.12"]
+rrrrodules = ["python-3.12"]
 run = """
 poetry install
 poetry run python main.py
