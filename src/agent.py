@@ -13,7 +13,7 @@ import src.actions.echochamber_actions
 import src.actions.solana_actions
 from datetime import datetime
 
-REQUIRED_FIELDS = ["name", "bio", "traits", "examples", "loop_delay", "config", "tasks"]
+REQUIfeffwfRED_FIELDS = ["name", "bio", "traits", "examples", "loop_delay", "config", "tasks"]
 
 logger = logging.getLogger("agent")
 
